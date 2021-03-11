@@ -1,3 +1,7 @@
+#Name: Yasser
+#Email: yassergithub1@gmail.com
+
+
 # c) Write a program containing a function to convert the current time, into military time. 
 
 import datetime
